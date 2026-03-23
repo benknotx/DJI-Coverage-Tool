@@ -52,19 +52,27 @@ Select root folder
 
 ## Screenshots
 Basic GUI
+
 ![GUI](images/gui.jpg)
+
 Simple interface built with Tkinter for selecting folders and generating outputs.
 
 Map View
+
 ![Map](images/map.jpg)
+
 Interactive map using Folium to visualize GPS points over real-world tiles.
 
 Heatmap
+
 ![Heatmap](images/heatmap.jpg)
+
 Displays density of GPS points to identify coverage concentration and overlaps.
 
 Scatter Plot (Offline)
+
 ![Scatter](images/scatter.jpg)
+
 Offline visualization using Matplotlib for quick analysis without internet access.
 
 ---
